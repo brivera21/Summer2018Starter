@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[    364056,       6383]
-NotebookOptionsPosition[    345512,       6015]
-NotebookOutlinePosition[    358938,       6308]
-CellTagsIndexPosition[    358895,       6305]
+NotebookDataLength[    366649,       6425]
+NotebookOptionsPosition[    347993,       6056]
+NotebookOutlinePosition[    361417,       6349]
+CellTagsIndexPosition[    361374,       6346]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -74,9 +74,9 @@ However, recent developments in neuroimaging methods have allow to study the \
 nature of mathematical concepts empirically. Among other well studied complex \
 cognitive processes such as learning, language, and reading, mathematics has \
 proven to be \"unreasonably effective\" in exploring and discovering the \
-world. What makes this cognitive process different from other processes \
-happening in the brain? But more importantly, how are abstract concepts like \
-number and other mathematical objects studied scientifically? \
+world. What makes mathematics different from other processes happening in the \
+brain? More importantly, how are abstract concepts like number and other \
+mathematical objects studied scientifically? \
 \>", "Text",
  CellChangeTimes->{{3.700774312865305*^9, 3.700774350341485*^9}, 
    3.716902427754265*^9, 3.7354828504054613`*^9, {3.735483653472313*^9, 
@@ -96,7 +96,8 @@ number and other mathematical objects studied scientifically? \
    3.739222376989929*^9, 3.739222480846011*^9}, {3.7392274803288393`*^9, 
    3.7392274835179434`*^9}, {3.739227559507947*^9, 3.739227562721998*^9}, {
    3.7392749331905804`*^9, 3.739274941404996*^9}, {3.7393167400428643`*^9, 
-   3.7393167412179193`*^9}},ExpressionUUID->"1b2a3c8f-8aac-4c2f-bdd1-\
+   3.7393167412179193`*^9}, {3.7394051932800164`*^9, 
+   3.7394052101094866`*^9}},ExpressionUUID->"1b2a3c8f-8aac-4c2f-bdd1-\
 2058cb832910"],
 
 Cell[CellGroupData[{
@@ -129,7 +130,7 @@ ec19561dc413"],
 Cell[TextData[{
  StyleBox["-Comparative studies",
   FontWeight->"Bold"],
- " which investigates the biological bases of mathematical abilities shared \
+ " which investigates the biological basis of mathematical abilities shared \
 across species.  "
 }], "Text",
  CellChangeTimes->{{3.739118572466612*^9, 3.7391186052646723`*^9}, {
@@ -138,13 +139,14 @@ across species.  "
    3.739182975513548*^9, 3.7391830185995197`*^9}, {3.7391831553225217`*^9, 
    3.7391831594558434`*^9}, 3.7391831986060967`*^9, {3.7391832346790967`*^9, 
    3.7391833591419554`*^9}, {3.739183392160634*^9, 3.7391834108838325`*^9}, 
-   3.7392070635771713`*^9},ExpressionUUID->"39cc579d-8a4c-4003-ae02-\
+   3.7392070635771713`*^9, {3.7394052406779084`*^9, 
+   3.739405241139872*^9}},ExpressionUUID->"39cc579d-8a4c-4003-ae02-\
 104b7e71ba52"],
 
 Cell[TextData[{
  StyleBox["-Developmental studies",
   FontWeight->"Bold"],
- " looks at the quantitative abilities already present in newborn and their \
+ " looks at the quantitative abilities already present in newborns and their \
 development throughout the early years of life including the acquisition of \
 symbolic notations in human children. "
 }], "Text",
@@ -154,8 +156,8 @@ symbolic notations in human children. "
    3.739182975513548*^9, 3.7391830185995197`*^9}, {3.7391831553225217`*^9, 
    3.7391831594558434`*^9}, 3.7391831986060967`*^9, {3.7391832346790967`*^9, 
    3.7391833591419554`*^9}, {3.7391833925638714`*^9, 3.7391835257235003`*^9}, 
-   3.7392070654546766`*^9, {3.7392276352862005`*^9, 
-   3.739227639753869*^9}},ExpressionUUID->"c4eea227-4dd7-4f54-9a09-\
+   3.7392070654546766`*^9, {3.7392276352862005`*^9, 3.739227639753869*^9}, 
+   3.739405260917988*^9},ExpressionUUID->"c4eea227-4dd7-4f54-9a09-\
 e3e88bfab34e"],
 
 Cell[TextData[{
@@ -182,13 +184,14 @@ abilities, most reaction time studies use number symbols. "
 fcc998af57f3"],
 
 Cell[TextData[{
- StyleBox["-Neuroscience ",
+ StyleBox["-Neuroscientific studies ",
   FontWeight->"Bold"],
  "uses imaging tools such functional magnetic resonance imaging (fMRI), ",
  StyleBox["electroencephalogram (EEG)",
   FontWeight->"Bold"],
- ", eye taking, functional near-infrared spectroscopy (fNIRS) to measure \
-changes in brain activity present during processing of numerical stimuli. "
+ ", eye tracking, and functional near-infrared spectroscopy (fNIRS) to \
+measure changes in brain activity present during the processing of numerical \
+stimuli."
 }], "Text",
  CellChangeTimes->{{3.739118572466612*^9, 3.7391186052646723`*^9}, {
    3.7391193593006535`*^9, 3.7391193819795165`*^9}, {3.7391214486647587`*^9, 
@@ -199,14 +202,15 @@ changes in brain activity present during processing of numerical stimuli. "
    3.7392277317829237`*^9, 3.739227782510662*^9}, {3.739227961222689*^9, 
    3.739227992749121*^9}, {3.739228040404561*^9, 3.7392280450809016`*^9}, {
    3.739228129641788*^9, 3.7392283641730766`*^9}, 3.7392283948650627`*^9, {
-   3.7392751173982487`*^9, 3.739275135644497*^9}, 
-   3.739275168895183*^9},ExpressionUUID->"2c40bdcf-6aa5-441d-ba83-\
+   3.7392751173982487`*^9, 3.739275135644497*^9}, 3.739275168895183*^9, {
+   3.739405314428421*^9, 
+   3.739405367109378*^9}},ExpressionUUID->"2c40bdcf-6aa5-441d-ba83-\
 23b275da7555"],
 
 Cell["\<\
 Describing each of these areas and their respective methods would require a \
-depth beyond the scope of this introduction. However,  as an introduction, \
-the following sections will describe how reaction time (RT) and \
+depth beyond the scope of an introduction to numerical cognition. The \
+following sections will describe how reaction time (RT) and \
 electroencephalogram (EEG) are used in numerical cognition. \
 \>", "Text",
  CellChangeTimes->{{3.739118572466612*^9, 3.7391186052646723`*^9}, {
@@ -218,8 +222,8 @@ electroencephalogram (EEG) are used in numerical cognition. \
    3.7392277317829237`*^9, 3.739227782510662*^9}, {3.739227961222689*^9, 
    3.739227992749121*^9}, {3.739228040404561*^9, 3.7392280450809016`*^9}, {
    3.739228129641788*^9, 3.7392284639097905`*^9}, {3.7392285676737137`*^9, 
-   3.739228758176837*^9}, 
-   3.7392751814066916`*^9},ExpressionUUID->"dd92bbca-468c-42e8-9d67-\
+   3.739228758176837*^9}, 3.7392751814066916`*^9, {3.7394053863064985`*^9, 
+   3.739405437685482*^9}},ExpressionUUID->"dd92bbca-468c-42e8-9d67-\
 2a601c5a507f"]
 }, Open  ]],
 
@@ -232,15 +236,19 @@ Cell["Reaction Time", "Section",
 efe0ab1dbba6"],
 
 Cell["\<\
-Among the many outputs of a simple single digit arithmetic operation in \
-Wolfram Alpha there is an estimate of the amount of time it would take humans \
-of various ages to carry out that specific computation.  This can be seen in \
-the output cell of the operation below.\
+Reaction time is the time elapsed between the presentation of a stimuli and \
+the completion of a specific behavior such as pressing a button. Among the \
+many outputs of a single digit arithmetic operation in Wolfram Alpha there is \
+an estimate of the amount of time it would take humans of various ages to \
+carry out that specific computation.  This can be seen in the output cell of \
+the operation below.\
 \>", "Text",
  CellChangeTimes->{{3.739269143885152*^9, 3.739269340326193*^9}, {
    3.7392751994644403`*^9, 3.7392752019630427`*^9}, 3.7393122964428387`*^9, {
-   3.739316771688451*^9, 
-   3.7393167982201076`*^9}},ExpressionUUID->"40037636-4dbb-4e05-b007-\
+   3.739316771688451*^9, 3.7393167982201076`*^9}, {3.739405449718244*^9, 
+   3.739405481074128*^9}, {3.739405628932195*^9, 3.739405650120777*^9}, {
+   3.7394057154667077`*^9, 
+   3.739405788615288*^9}},ExpressionUUID->"40037636-4dbb-4e05-b007-\
 a3b6ae0d8f0a"],
 
 Cell[CellGroupData[{
@@ -259,8 +267,7 @@ Cell[BoxData[
  CellChangeTimes->{{3.7392933151675453`*^9, 3.7392933276340218`*^9}, {
   3.739299773620826*^9, 3.739299775773304*^9}, {3.7393168086398153`*^9, 
   3.739316810319954*^9}},
- CellLabel->
-  "In[648]:=",ExpressionUUID->"2f8e39c2-ea08-4bea-9286-2a30c77a249a"],
+ CellLabel->"In[1]:=",ExpressionUUID->"2f8e39c2-ea08-4bea-9286-2a30c77a249a"],
 
 Cell[BoxData[
  NamespaceBox["WolframAlphaQueryResults",
@@ -462,16 +469,16 @@ HumanComputationQuerySourceInformationNotes.html", "text" ->
         "Human computation query"}, {}]}]}, Typeset`initdone$$ = True, 
    Typeset`queryinfo$$ = {
    "success" -> "true", "error" -> "false", "numpods" -> "1", "datatypes" -> 
-    "Math", "timedout" -> "", "timedoutpods" -> "", "timing" -> "0.512", 
-    "parsetiming" -> "0.101", "parsetimedout" -> "false", "recalculate" -> "",
-     "id" -> "MSPa293213544i2h8e4f9f3a0000238770208122b8bf", "host" -> 
-    "http://www5b.wolframalpha.com", "server" -> "53", "related" -> 
-    "http://www5b.wolframalpha.com/api/v2/relatedQueries.jsp?id=\
-MSPa293313544i2h8e4f9f3a000055hddc3fiaid978c6807070643161599741", "version" -> 
+    "Math", "timedout" -> "", "timedoutpods" -> "", "timing" -> "0.733", 
+    "parsetiming" -> "0.066", "parsetimedout" -> "false", "recalculate" -> "",
+     "id" -> "MSPa56113ca06d2a0212ihg00000i7ie77eb2g3b52a", "host" -> 
+    "http://www4d.wolframalpha.com", "server" -> "38", "related" -> 
+    "http://www4d.wolframalpha.com/api/v2/relatedQueries.jsp?id=\
+MSPa56213ca06d2a0212ihg00006730b76c15hb93842206861520850736438", "version" -> 
     "2.6"}, Typeset`sessioninfo$$ = {
    "TimeZone" -> -5., 
-    "Date" -> {2018, 6, 29, 22, 6, 51.6159181`9.465358506661701}, "Line" -> 
-    648, "SessionID" -> 19271313247635288604}, Typeset`showpods$$ = {1}, 
+    "Date" -> {2018, 6, 30, 22, 45, 18.2434047`9.013680832414114}, "Line" -> 
+    1, "SessionID" -> 19272244815771635353}, Typeset`showpods$$ = {1}, 
    Typeset`failedpods$$ = {}, Typeset`chosen$$ = {}, Typeset`open$$ = False, 
    Typeset`newq$$ = "3+3"}, 
    DynamicBox[ToBoxes[
@@ -482,7 +489,7 @@ MSPa293313544i2h8e4f9f3a000055hddc3fiaid978c6807070643161599741", "version" ->
         Typeset`nonpods$$, Typeset`queryinfo$$, Typeset`sessioninfo$$, 
         Typeset`showpods$$, Typeset`failedpods$$, Typeset`newq$$}]], 
      StandardForm],
-    ImageSizeCache->{1221., {54., 60.}},
+    ImageSizeCache->{536., {54., 60.}},
     TrackedSymbols:>{Typeset`showpods$$, Typeset`failedpods$$}],
    DynamicModuleValues:>{},
    Initialization:>If[
@@ -497,9 +504,9 @@ MSPa293313544i2h8e4f9f3a000055hddc3fiaid978c6807070643161599741", "version" ->
   SelectWithContents->True]], "Output",
  CellChangeTimes->{
   3.739293284353491*^9, 3.7392933299264965`*^9, 3.739298402742688*^9, 
-   3.739299778415728*^9, {3.739316803338008*^9, 3.739316811671899*^9}},
- CellLabel->
-  "Out[648]=",ExpressionUUID->"95ef817d-7be1-4307-ad30-0f3cc670219f"]
+   3.739299778415728*^9, {3.739316803338008*^9, 3.739316811671899*^9}, 
+   3.739405518379897*^9},
+ CellLabel->"Out[1]=",ExpressionUUID->"7fe025ce-e427-4683-bc96-3ddac08462a9"]
 }, Open  ]],
 
 Cell[TextData[{
@@ -509,16 +516,18 @@ regarding numbers. One of them is the ",
   FontWeight->"Bold"],
  ". The NDE is the decrease in the time required for judgement of the \
 numerical inequality between two numbers as the numerical distance between \
-the two numbers ingresses. A second patten is the ",
+the two numbers increases. A second patten is the ",
  StyleBox["spatial-numerical association of response codes (SNARC) ",
   FontWeight->"Bold"],
  "which is the automatic association between the locations of a response \
-(such as left or right) and the semantic magnitude of numbers. "
+(such as left or right) and the semantic magnitude of numbers which can be \
+seen on the differences of reaction time across different stimuli. "
 }], "Text",
  CellChangeTimes->{
   3.7392687040490837`*^9, {3.7392688436374655`*^9, 3.7392690215143456`*^9}, {
    3.7393105745439396`*^9, 3.739310579034835*^9}, {3.739316821493827*^9, 
-   3.739316869944536*^9}},ExpressionUUID->"494404e5-8a82-41ee-a133-\
+   3.739316869944536*^9}, {3.739405559136577*^9, 
+   3.7394056208718557`*^9}},ExpressionUUID->"494404e5-8a82-41ee-a133-\
 c32ade860811"],
 
 Cell["\<\
@@ -528,14 +537,17 @@ using fractions show the influence of arithmetic rules learned from the \
 natural numbers. Some of these errors include the judgment of a smaller \
 denominator to be of greater numerical value (1/8  > 1/2 since 8 > 2) and \
 adding across numerator and denominator (2/4 + 1/4 = 2/6 instead of 2/4 + 1/4 \
-= 3/4). Below are the reaction times of equivalence judgments between the \
-first five multiples of three different fraction.\
+= 3/4). Below are the plotted average reaction times of trials where adults \
+judged the equivalence between the first five multiples of fractions 1/2,1/3, \
+and 1/4 and the fractions themselves.\
 \>", "Text",
  CellChangeTimes->{{3.739269143885152*^9, 3.739269340326193*^9}, {
    3.7392751994644403`*^9, 3.7392752019630427`*^9}, 3.7393122964428387`*^9, {
    3.739316771688451*^9, 3.7393167982201076`*^9}, {3.7393172964091015`*^9, 
    3.739317356373971*^9}, 3.739317411867957*^9, {3.739317536317348*^9, 
-   3.7393175453204317`*^9}},ExpressionUUID->"605bed0c-c840-4f15-be6f-\
+   3.7393175453204317`*^9}, {3.739406193935238*^9, 3.739406204907546*^9}, {
+   3.7394066690904293`*^9, 3.739406701954779*^9}, {3.7394068104923267`*^9, 
+   3.7394068563483925`*^9}},ExpressionUUID->"605bed0c-c840-4f15-be6f-\
 2314d694c218"],
 
 Cell[BoxData[
@@ -543,18 +555,24 @@ Cell[BoxData[
     {RGBColor[0.368417, 0.506779, 0.709798], PointSize[
       NCache[
        Rational[7, 360], 0.019444444444444445`]], AbsoluteThickness[1.6], 
-     LineBox[{{2., 541.6301703}, {3., 551.446384}, {4., 552.0076923}, {5., 
-      530.3619792}, {6., 533.382134}}]}, 
+     LineBox[{{1.0198507460199615`, 541.1976480799125}, {2.0198507460199613`, 
+      551.0138617799124}, {3.0198507460199613`, 551.5751700799125}, {
+      4.01985074601996, 529.9294569799124}, {5.01985074601996, 
+      532.9496117799124}}]}, 
     {RGBColor[0.880722, 0.611041, 0.142051], PointSize[
       NCache[
        Rational[7, 360], 0.019444444444444445`]], AbsoluteThickness[1.6], 
-     LineBox[{{2., 549.9844816}, {3., 553.3955774}, {4., 585.6203209}, {5., 
-      561.99022}, {6., 535.156658}}]}, 
+     LineBox[{{1.0495522385648113`, 548.6869149397374}, {2.049552238564811, 
+      552.0980107397374}, {3.049552238564811, 584.3227542397375}, {
+      4.04955223856481, 560.6926533397375}, {5.04955223856481, 
+      533.8590913397375}}]}, 
     {RGBColor[0.560181, 0.691569, 0.194885], PointSize[
       NCache[
        Rational[7, 360], 0.019444444444444445`]], AbsoluteThickness[1.6], 
-     LineBox[{{2., 565.9877451}, {3., 592.2800983}, {4., 554.5749386}, {5., 
-      573.7775061}, {6., 605.3017903}}]}}, {{}, {InsetBox[
+     LineBox[{{1.0495522385648113`, 567.2853117602625}, {2.049552238564811, 
+      593.5776649602625}, {3.049552238564811, 555.8725052602625}, {
+      4.04955223856481, 575.0750727602625}, {5.04955223856481, 
+      606.5993569602625}}]}}, {{}, {InsetBox[
       StyleBox["\<\"Half\"\>",
        StripOnInput->False,
        LineColor->GrayLevel[0],
@@ -563,7 +581,8 @@ Cell[BoxData[
        GraphicsColor->GrayLevel[0],
        FontSize->10,
        FontWeight->Bold,
-       FontColor->GrayLevel[0]], Offset[{0, 2}, {4., 552.0076923}], 
+       FontColor->GrayLevel[0]], 
+      Offset[{0., 2.}, {4.222761194086371, 533.8417590563243}], 
       ImageScaled[{0.5, 0}]], InsetBox[
       StyleBox["\<\"Third\"\>",
        StripOnInput->False,
@@ -573,7 +592,8 @@ Cell[BoxData[
        GraphicsColor->GrayLevel[0],
        FontSize->10,
        FontWeight->Bold,
-       FontColor->GrayLevel[0]], Offset[{0, 2}, {4., 585.6203209}], 
+       FontColor->GrayLevel[0]], 
+      Offset[{0., 2.}, {3.049552238564811, 584.7552764598249}], 
       ImageScaled[{0.5, 0}]], InsetBox[
       StyleBox["\<\"Fourth\"\>",
        StripOnInput->False,
@@ -583,7 +603,8 @@ Cell[BoxData[
        GraphicsColor->GrayLevel[0],
        FontSize->10,
        FontWeight->Bold,
-       FontColor->GrayLevel[0]], Offset[{0, 2}, {6., 605.3017903}], 
+       FontColor->GrayLevel[0]], 
+      Offset[{0., 2.}, {5.287164178923607, 604.8692680799124}], 
       ImageScaled[{1, 0}]]}}, {{}, {}}, {}, {}},
   AspectRatio->NCache[GoldenRatio^(-1), 0.6180339887498948],
   Axes->{True, True},
@@ -596,7 +617,7 @@ Cell[BoxData[
   GridLines->{None, None},
   GridLinesStyle->Directive[
     GrayLevel[0.5, 0.4]],
-  ImagePadding->All,
+  ImagePadding->{{19.316583, 4.}, {14.959591, 0.5}},
   LabelStyle->Directive[Bold, 
     GrayLevel[0], 10],
   Method->{"CoordinatesToolOptions" -> {"DisplayFunction" -> ({
@@ -609,15 +630,28 @@ Cell[BoxData[
         (Identity[#]& )[
          Part[#, 2]]}& )}},
   PlotLabel->FormBox["\"ReactionTime\"", TraditionalForm],
-  PlotRange->{{1, 6}, {520, 610}},
+  PlotRange->{{1., 6.}, {520., 610.}},
   PlotRangeClipping->True,
-  PlotRangePadding->{{0, 0}, {0, 0}},
-  Ticks->{Automatic, Automatic}]], "Output",
- CellChangeTimes->{
-  3.739315757186028*^9, 3.739315799084447*^9, 3.7393159796299815`*^9, {
-   3.7393162325193663`*^9, 3.7393162589732065`*^9}, 3.739316581381668*^9},
- CellLabel->
-  "Out[644]=",ExpressionUUID->"86fb9d4d-f13c-4701-96be-8c83eebcd5a7"]
+  PlotRangePadding->Automatic,
+  Ticks->{Automatic, Automatic}]], "Input",
+ CellChangeTimes->{{3.7394061168318076`*^9, 
+  3.739406146010686*^9}},ExpressionUUID->"fb98b03e-afb6-4b21-ac06-\
+4f1b43380cfa"],
+
+Cell["\<\
+In the graph above it is possible to observe the RT variation across \
+different multiples of the same fraction (same numerical magnitude) and \
+across different fractions. This highlights the fact that numerical magnitude \
+is not the only factor influencing the reaction time of the judgement. In \
+fact, one of the factors that affects reaction time are the components \
+(numerator and denominator) of a fraction. This means that the whole \
+magnitude of the fraction is not accessed automatically and that in fact, \
+like the patterns seen in children\[CloseCurlyQuote]s mistakes during \
+fraction operations, adults have to inhibit the influence of the components. \
+\>", "Text",
+ CellChangeTimes->{{3.739406247064186*^9, 
+  3.739406641510984*^9}},ExpressionUUID->"bcc869d3-9fda-4466-ba52-\
+1bef12c6936a"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -634,10 +668,11 @@ Cell["EEG", "Section",
 aa67a7c35b9d"],
 
 Cell["\<\
-One common way to study different aspects of cognition through neuroimaging \
-is by using event-related-potentials (ERP) in electroencephalography (EEG) \
-data. EEG measures scalp voltage through electrodes placed across the head. \
-The picture below shows the the relative placement of the 32 electrodes. \
+Another common way to study different aspects of cognition through \
+neuroimaging is by using event-related-potentials (ERP) in \
+electroencephalography (EEG) data. EEG measures scalp voltage through \
+electrodes placed across the head. The picture below shows the the relative \
+placement of the 32 electrodes. \
 \>", "Text",
  CellChangeTimes->{{3.7391214781938753`*^9, 3.7391214935164347`*^9}, {
    3.73912153459964*^9, 3.7391217799368925`*^9}, {3.7391222668341417`*^9, 
@@ -652,8 +687,8 @@ The picture below shows the the relative placement of the 32 electrodes. \
    3.7392752712615232`*^9}, {3.7392753069699616`*^9, 
    3.7392754861180153`*^9}, {3.73930927452861*^9, 3.7393092752830896`*^9}, {
    3.7393104367026978`*^9, 3.7393104853977365`*^9}, {3.7393169006303606`*^9, 
-   3.7393169240306835`*^9}, 
-   3.7393169612950735`*^9},ExpressionUUID->"863072c0-abf0-4ef7-b02e-\
+   3.7393169240306835`*^9}, 3.7393169612950735`*^9, {3.7394069233510647`*^9, 
+   3.73940692512903*^9}},ExpressionUUID->"863072c0-abf0-4ef7-b02e-\
 9aa61c285197"],
 
 Cell[BoxData[
@@ -4564,10 +4599,12 @@ Cell["\<\
 Noticeable positive or negative electrical spikes (potentials) sometimes \
 result from the processing of a given stimulus (event-related). Many ERPs are \
 characterized and named after the time-point at which a given deflection is \
-seen. \
+seen. A ERP used to study numerical cognition is a negative peak seen at \
+about 400 milliseconds named the N400. \
 \>", "Text",
  CellChangeTimes->{
-  3.739316958281001*^9},ExpressionUUID->"e630efaa-d453-4363-ba38-\
+  3.739316958281001*^9, {3.73940696129732*^9, 
+   3.7394070262761145`*^9}},ExpressionUUID->"e630efaa-d453-4363-ba38-\
 a61673a1ddc8"],
 
 Cell[CellGroupData[{
@@ -4581,31 +4618,32 @@ Cell["The N400", "Subsection",
 977d85a68ba3"],
 
 Cell["\<\
-One of the ERPs used in numerical cognition is the N400. The N400 has been \
-adapted from semantic linguistic experient. These experiments use the \
-amplitude of the N400 as a measure of how semantically deviant a given word \
-is. When the ERP of the sentence \[OpenCurlyDoubleQuote]The man drank his \
-coffee with sugar and milk\[CloseCurlyDoubleQuote] is compared to the \
-sentence \[OpenCurlyDoubleQuote]The man drank his coffee with sugar and \
-elephant\[CloseCurlyDoubleQuote] a negative deflection around 400 \
-milliseconds is observed when the ERP waveform of the Match and Mismatch \
-conditions are compared. The shift and latency of the N400 is taken to reveal \
-information about the semantic value between the two nouns.\
+The N400 has been adapted from semantic linguistic experiments. These \
+experiments use the amplitude of the N400 as a measure of how semantically \
+deviant a given word is. When the ERP of the sentence \
+\[OpenCurlyDoubleQuote]The man drank his coffee with sugar and milk\
+\[CloseCurlyDoubleQuote] is compared to the sentence \
+\[OpenCurlyDoubleQuote]The man drank his coffee with sugar and elephant\
+\[CloseCurlyDoubleQuote] a negative deflection around 400 milliseconds is \
+observed when the ERP waveform of the Match and Mismatch conditions are \
+compared. The shift and latency of the N400 is taken to reveal information \
+about the semantic value between the two nouns.\
 \>", "Text",
  CellChangeTimes->{{3.739122691188777*^9, 3.739122946718404*^9}, {
   3.7392058681879177`*^9, 3.7392058685841646`*^9}, {3.739206193759073*^9, 
   3.7392063600451584`*^9}, {3.739206391381939*^9, 3.7392064016458673`*^9}, {
   3.7392064558551617`*^9, 3.7392064781018343`*^9}, {3.7392717772486024`*^9, 
-  3.7392717772521048`*^9}, {3.7393176232013416`*^9, 
-  3.7393177240451365`*^9}},ExpressionUUID->"e63ba6b9-7e98-40a3-856f-\
+  3.7392717772521048`*^9}, {3.7393176232013416`*^9, 3.7393177240451365`*^9}, {
+  3.7394070354039335`*^9, 
+  3.739407051888606*^9}},ExpressionUUID->"e63ba6b9-7e98-40a3-856f-\
 19dae2dc3891"],
 
 Cell["\<\
 This paradigm has been adapted to numerical cognition tasks to study the \
-semantic assignations in mathematical operations. In these experiments, the \
-ERP waveform is present when reading\[LineSeparator] operations such as \"4 x \
-7 = 28\" versus that of \"4 x 7 = 21\" the former being a Match, the latter \
-being a Mismatch. \
+semantic associations in mathematical operations. In these experiments, the \
+ERP waveforms of reading operations such as \"4 x 7 = 28\" versus that of \"4 \
+x 7 = 21\" (the former being a Match, the latter being a Mismatch) are \
+compared to see if there is a similar semantic violation. \
 \>", "Text",
  CellChangeTimes->{{3.739122691188777*^9, 3.739122946718404*^9}, {
    3.7392058681879177`*^9, 3.7392058685841646`*^9}, {3.739206193759073*^9, 
@@ -4614,8 +4652,10 @@ being a Mismatch. \
    3.7392741925247726`*^9}, 3.7393091406991053`*^9, {3.73931074059827*^9, 
    3.7393107688790407`*^9}, {3.7393174375347123`*^9, 3.739317454924122*^9}, 
    3.739317811658132*^9, {3.7393178423474035`*^9, 3.739317883378806*^9}, {
-   3.739317947818759*^9, 
-   3.739318004935484*^9}},ExpressionUUID->"8d2e6aff-83e0-48e1-9ca5-\
+   3.739317947818759*^9, 3.739318004935484*^9}, {3.73940710734309*^9, 
+   3.739407115606428*^9}, {3.7394071721303315`*^9, 3.7394071935918846`*^9}, {
+   3.7394072257982745`*^9, 
+   3.7394072473228207`*^9}},ExpressionUUID->"8d2e6aff-83e0-48e1-9ca5-\
 2c9ee471f0fd"],
 
 Cell["\<\
@@ -4629,8 +4669,7 @@ presented was always one of the first five multiples of 1/2, 1/3, or 1/4.  \
 The picture below shows the ERP waveform of electrodes CZ, CP1, CP2, and PZ, \
 where an N400 difference components is visible. Both waveforms are the \
 average of the correct files out of 600 trials completed by each of the 24 \
-participants (total of 14400 trials).  In fact, all the waveform in the \
-images below\[LineSeparator] are from the data collected. \
+participants (total of 14400 trials).  \
 \>", "Text",
  CellChangeTimes->{{3.739122691188777*^9, 3.739122946718404*^9}, {
    3.7392058681879177`*^9, 3.7392058685841646`*^9}, {3.739206193759073*^9, 
@@ -4641,8 +4680,9 @@ images below\[LineSeparator] are from the data collected. \
    3.739274299809352*^9, 3.7392744669225173`*^9}, {3.7392745403515043`*^9, 
    3.739274765425944*^9}, {3.7392748603053255`*^9, 3.739274860452322*^9}, {
    3.7393171230710254`*^9, 3.7393171266215577`*^9}, {3.7393171872399807`*^9, 
-   3.739317194851758*^9}, {3.739318024830332*^9, 
-   3.73931805676854*^9}},ExpressionUUID->"eb3b74e9-6619-44cb-9d55-\
+   3.739317194851758*^9}, {3.739318024830332*^9, 3.73931805676854*^9}, {
+   3.739407283890125*^9, 
+   3.7394072891330366`*^9}},ExpressionUUID->"eb3b74e9-6619-44cb-9d55-\
 2a27afa95d6b"],
 
 Cell[CellGroupData[{
@@ -5902,15 +5942,16 @@ From reaction time studies we find the presence of numerical size and the \
 influence of space in numerical judgement. Additionally, EEG findings of \
 fraction judgements show the influence of individual components on the \
 overall operation. Taken together, these numerical cognition findings show \
-that event something as simple as a number judgement is composed of smaller \
-subprocess subject to influence and  interference from other non numerical \
-cognitive aspects such as space placement of stimuli. \
+that even something as simple as a number judgement is composed of smaller \
+subprocess subject to the influence and  interference from non numerical \
+cognitive processing.\
 \>", "Text",
  CellChangeTimes->{{3.739269367762039*^9, 3.739269563733018*^9}, {
   3.7392696013656087`*^9, 3.7392696861327457`*^9}, {3.7392755661096544`*^9, 
   3.739275652458194*^9}, {3.7392757244445887`*^9, 3.739275727702363*^9}, {
-  3.7393180880218115`*^9, 
-  3.7393180908378315`*^9}},ExpressionUUID->"21f11063-84af-4fcc-be7d-\
+  3.7393180880218115`*^9, 3.7393180908378315`*^9}, {3.7394073538537397`*^9, 
+  3.739407365854973*^9}, {3.739407404203744*^9, 
+  3.7394074261588097`*^9}},ExpressionUUID->"21f11063-84af-4fcc-be7d-\
 9f4aa1ccf0b2"],
 
 Cell["\<\
@@ -6013,8 +6054,8 @@ Cell["", "Subsection",
 5b9b14030d1c"]
 }, Open  ]]
 },
-WindowSize->{1366, 685},
-WindowMargins->{{-8, Automatic}, {Automatic, -8}},
+WindowSize->{681, 676},
+WindowMargins->{{-7, Automatic}, {Automatic, 0}},
 FrontEndVersion->"11.3 for Microsoft Windows (64-bit) (March 6, 2018)",
 StyleDefinitions->Notebook[{
    Cell[
@@ -6312,78 +6353,79 @@ Cell[580, 22, 319, 5, 139, "Title",ExpressionUUID->"755e0098-9782-4df5-8299-7f54
 Cell[902, 29, 462, 7, 46, "Abstract",ExpressionUUID->"db4efd27-b72d-4835-a486-b18956bba0cb"],
 Cell[1367, 38, 574, 8, 44, "AuthorInfo",ExpressionUUID->"59a63784-4e95-46b9-9a1d-2c013f47161b"],
 Cell[1944, 48, 1399, 20, 33, "Text",ExpressionUUID->"99ddfba3-f2e4-48aa-a886-7472bbc581ac"],
-Cell[3346, 70, 2057, 29, 77, "Text",ExpressionUUID->"1b2a3c8f-8aac-4c2f-bdd1-2058cb832910"],
+Cell[3346, 70, 2096, 30, 165, "Text",ExpressionUUID->"1b2a3c8f-8aac-4c2f-bdd1-2058cb832910"],
 Cell[CellGroupData[{
-Cell[5428, 103, 539, 9, 71, "Section",ExpressionUUID->"35feb7e4-4e93-4e64-abc0-7b0b86e8128f"],
-Cell[5970, 114, 724, 12, 33, "Text",ExpressionUUID->"b735fb73-cd23-4684-afc7-ec19561dc413"],
-Cell[6697, 128, 722, 13, 33, "Text",ExpressionUUID->"39cc579d-8a4c-4003-ae02-104b7e71ba52"],
-Cell[7422, 143, 877, 15, 55, "Text",ExpressionUUID->"c4eea227-4dd7-4f54-9a09-e3e88bfab34e"],
-Cell[8302, 160, 1198, 21, 55, "Text",ExpressionUUID->"6873afbf-4796-4ceb-94c6-fcc998af57f3"],
-Cell[9503, 183, 1171, 20, 55, "Text",ExpressionUUID->"2c40bdcf-6aa5-441d-ba83-23b275da7555"],
-Cell[10677, 205, 1087, 17, 55, "Text",ExpressionUUID->"dd92bbca-468c-42e8-9d67-2a601c5a507f"]
+Cell[5467, 104, 539, 9, 71, "Section",ExpressionUUID->"35feb7e4-4e93-4e64-abc0-7b0b86e8128f"],
+Cell[6009, 115, 724, 12, 55, "Text",ExpressionUUID->"b735fb73-cd23-4684-afc7-ec19561dc413"],
+Cell[6736, 129, 774, 14, 55, "Text",ExpressionUUID->"39cc579d-8a4c-4003-ae02-104b7e71ba52"],
+Cell[7513, 145, 900, 15, 77, "Text",ExpressionUUID->"c4eea227-4dd7-4f54-9a09-e3e88bfab34e"],
+Cell[8416, 162, 1198, 21, 99, "Text",ExpressionUUID->"6873afbf-4796-4ceb-94c6-fcc998af57f3"],
+Cell[9617, 185, 1243, 22, 77, "Text",ExpressionUUID->"2c40bdcf-6aa5-441d-ba83-23b275da7555"],
+Cell[10863, 209, 1126, 17, 77, "Text",ExpressionUUID->"dd92bbca-468c-42e8-9d67-2a601c5a507f"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[11801, 227, 186, 4, 71, "Section",ExpressionUUID->"1588f3d8-c831-4ef6-af12-efe0ab1dbba6"],
-Cell[11990, 233, 553, 10, 55, "Text",ExpressionUUID->"40037636-4dbb-4e05-b007-a3b6ae0d8f0a"],
+Cell[12026, 231, 186, 4, 71, "Section",ExpressionUUID->"1588f3d8-c831-4ef6-af12-efe0ab1dbba6"],
+Cell[12215, 237, 839, 14, 121, "Text",ExpressionUUID->"40037636-4dbb-4e05-b007-a3b6ae0d8f0a"],
 Cell[CellGroupData[{
-Cell[12568, 247, 678, 15, 26, "Input",ExpressionUUID->"2f8e39c2-ea08-4bea-9286-2a30c77a249a"],
-Cell[13249, 264, 11608, 237, 131, "Output",ExpressionUUID->"95ef817d-7be1-4307-ad30-0f3cc670219f"]
+Cell[13079, 255, 673, 14, 65, "Input",ExpressionUUID->"2f8e39c2-ea08-4bea-9286-2a30c77a249a"],
+Cell[13755, 271, 11625, 237, 131, "Output",ExpressionUUID->"7fe025ce-e427-4683-bc96-3ddac08462a9"]
 }, Open  ]],
-Cell[24872, 504, 906, 17, 77, "Text",ExpressionUUID->"494404e5-8a82-41ee-a133-c32ade860811"],
-Cell[25781, 523, 986, 15, 77, "Text",ExpressionUUID->"605bed0c-c840-4f15-be6f-2314d694c218"],
-Cell[26770, 540, 3148, 79, 254, "Output",ExpressionUUID->"86fb9d4d-f13c-4701-96be-8c83eebcd5a7"]
-}, Open  ]],
-Cell[CellGroupData[{
-Cell[29955, 624, 526, 9, 71, "Section",ExpressionUUID->"69c2789e-757d-42de-8e7a-aa67a7c35b9d"],
-Cell[30484, 635, 1377, 21, 55, "Text",ExpressionUUID->"863072c0-abf0-4ef7-b02e-9aa61c285197"],
-Cell[31864, 658, 237736, 3902, 339, 202966, 3331, "CachedBoxData", "BoxData", "Input",ExpressionUUID->"552309a2-6b51-49e2-b487-dcec8e96bee9"],
-Cell[269603, 4562, 365, 8, 55, "Text",ExpressionUUID->"e630efaa-d453-4363-ba38-a61673a1ddc8"],
-Cell[CellGroupData[{
-Cell[269993, 4574, 388, 6, 47, "Subsection",ExpressionUUID->"cc46f867-3999-4374-9aad-977d85a68ba3"],
-Cell[270384, 4582, 1189, 18, 99, "Text",ExpressionUUID->"e63ba6b9-7e98-40a3-856f-19dae2dc3891"],
-Cell[271576, 4602, 989, 16, 55, "Text",ExpressionUUID->"8d2e6aff-83e0-48e1-9ca5-2c9ee471f0fd"],
-Cell[272568, 4620, 1704, 25, 121, "Text",ExpressionUUID->"eb3b74e9-6619-44cb-9d55-2a27afa95d6b"],
-Cell[CellGroupData[{
-Cell[274297, 4649, 228, 5, 47, "Input",ExpressionUUID->"336cf5c5-00a1-4f32-b35b-1c84dc1d87a7"],
-Cell[274528, 4656, 25343, 498, 239, "Output",ExpressionUUID->"21fa11e9-7fb8-43eb-811a-8f0ee1eb20d7"]
+Cell[25395, 511, 1039, 19, 165, "Text",ExpressionUUID->"494404e5-8a82-41ee-a133-c32ade860811"],
+Cell[26437, 532, 1208, 18, 165, "Text",ExpressionUUID->"605bed0c-c840-4f15-be6f-2314d694c218"],
+Cell[27648, 552, 3510, 86, 250, InheritFromParent,ExpressionUUID->"fb98b03e-afb6-4b21-ac06-4f1b43380cfa"],
+Cell[31161, 640, 820, 13, 165, "Text",ExpressionUUID->"bcc869d3-9fda-4466-ba52-1bef12c6936a"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[299908, 5159, 178, 4, 47, "Input",ExpressionUUID->"4d3b6ca5-acd7-4390-9d10-08e33dd0346b"],
-Cell[300089, 5165, 13552, 237, 237, "Output",ExpressionUUID->"5274b0be-771c-460d-be4b-1fdfc802d83f"]
+Cell[32018, 658, 526, 9, 71, "Section",ExpressionUUID->"69c2789e-757d-42de-8e7a-aa67a7c35b9d"],
+Cell[32547, 669, 1430, 22, 99, "Text",ExpressionUUID->"863072c0-abf0-4ef7-b02e-9aa61c285197"],
+Cell[33980, 693, 237736, 3902, 339, 202966, 3331, "CachedBoxData", "BoxData", "Input",ExpressionUUID->"552309a2-6b51-49e2-b487-dcec8e96bee9"],
+Cell[271719, 4597, 524, 10, 99, "Text",ExpressionUUID->"e630efaa-d453-4363-ba38-a61673a1ddc8"],
+Cell[CellGroupData[{
+Cell[272268, 4611, 388, 6, 47, "Subsection",ExpressionUUID->"cc46f867-3999-4374-9aad-977d85a68ba3"],
+Cell[272659, 4619, 1185, 19, 165, "Text",ExpressionUUID->"e63ba6b9-7e98-40a3-856f-19dae2dc3891"],
+Cell[273847, 4640, 1177, 18, 99, "Text",ExpressionUUID->"8d2e6aff-83e0-48e1-9ca5-2c9ee471f0fd"],
+Cell[275027, 4660, 1663, 25, 165, "Text",ExpressionUUID->"eb3b74e9-6619-44cb-9d55-2a27afa95d6b"],
+Cell[CellGroupData[{
+Cell[276715, 4689, 228, 5, 47, "Input",ExpressionUUID->"336cf5c5-00a1-4f32-b35b-1c84dc1d87a7"],
+Cell[276946, 4696, 25343, 498, 239, "Output",ExpressionUUID->"21fa11e9-7fb8-43eb-811a-8f0ee1eb20d7"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[313678, 5407, 178, 4, 47, "Input",ExpressionUUID->"0e43649b-b155-418e-8b37-326b3b76d170"],
-Cell[313859, 5413, 13633, 240, 237, "Output",ExpressionUUID->"b5a3b272-ea72-4f27-bda3-1ca64ae045dc"]
+Cell[302326, 5199, 178, 4, 47, "Input",ExpressionUUID->"4d3b6ca5-acd7-4390-9d10-08e33dd0346b"],
+Cell[302507, 5205, 13552, 237, 237, "Output",ExpressionUUID->"5274b0be-771c-460d-be4b-1fdfc802d83f"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[327529, 5658, 179, 4, 47, "Input",ExpressionUUID->"ec6d7621-2c38-4b5a-a9b4-88c6a376aeae"],
-Cell[327711, 5664, 12562, 222, 239, "Output",ExpressionUUID->"20d5c740-6171-4710-adc4-8e7b73c472d9"]
+Cell[316096, 5447, 178, 4, 47, "Input",ExpressionUUID->"0e43649b-b155-418e-8b37-326b3b76d170"],
+Cell[316277, 5453, 13633, 240, 237, "Output",ExpressionUUID->"b5a3b272-ea72-4f27-bda3-1ca64ae045dc"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[329947, 5698, 179, 4, 47, "Input",ExpressionUUID->"ec6d7621-2c38-4b5a-a9b4-88c6a376aeae"],
+Cell[330129, 5704, 12562, 222, 239, "Output",ExpressionUUID->"20d5c740-6171-4710-adc4-8e7b73c472d9"]
 }, Open  ]]
 }, Open  ]]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[340334, 5893, 208, 4, 71, "Section",ExpressionUUID->"fb252105-7031-4332-bfc5-96f5096781d6"],
-Cell[340545, 5899, 865, 14, 77, "Text",ExpressionUUID->"21f11063-84af-4fcc-be7d-9f4aa1ccf0b2"],
-Cell[341413, 5915, 493, 9, 55, "Text",ExpressionUUID->"f11e4ab3-ff5a-4ab6-a013-777d03aa6de0"]
+Cell[342752, 5933, 208, 4, 71, "Section",ExpressionUUID->"fb252105-7031-4332-bfc5-96f5096781d6"],
+Cell[342963, 5939, 928, 15, 121, "Text",ExpressionUUID->"21f11063-84af-4fcc-be7d-9f4aa1ccf0b2"],
+Cell[343894, 5956, 493, 9, 77, "Text",ExpressionUUID->"f11e4ab3-ff5a-4ab6-a013-777d03aa6de0"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[341943, 5929, 262, 4, 71, "Section",ExpressionUUID->"9da19663-7179-45c9-8160-ad35832309c2"],
-Cell[342208, 5935, 457, 7, 33, "Text",ExpressionUUID->"45c45f6e-321c-4ce7-9657-950c1134d308"],
-Cell[342668, 5944, 456, 7, 33, "Text",ExpressionUUID->"f3fe5f46-432d-419a-92de-cf58a118ff7c"],
-Cell[343127, 5953, 395, 6, 33, "Text",ExpressionUUID->"974d1d02-3f81-4f9f-a141-4f1608fd9d6a"]
+Cell[344424, 5970, 262, 4, 71, "Section",ExpressionUUID->"9da19663-7179-45c9-8160-ad35832309c2"],
+Cell[344689, 5976, 457, 7, 33, "Text",ExpressionUUID->"45c45f6e-321c-4ce7-9657-950c1134d308"],
+Cell[345149, 5985, 456, 7, 33, "Text",ExpressionUUID->"f3fe5f46-432d-419a-92de-cf58a118ff7c"],
+Cell[345608, 5994, 395, 6, 33, "Text",ExpressionUUID->"974d1d02-3f81-4f9f-a141-4f1608fd9d6a"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[343559, 5964, 171, 3, 71, "Section",ExpressionUUID->"a78f6e4f-dbdf-4763-a44f-16569b36e665"],
-Cell[343733, 5969, 502, 9, 121, "Text",ExpressionUUID->"0a915fcc-fb79-485d-b244-1932368da4b2"],
-Cell[344238, 5980, 99, 1, 4, "PageBreak",ExpressionUUID->"c893c828-a077-46c2-b873-307e08eb7b91",
+Cell[346040, 6005, 171, 3, 71, "Section",ExpressionUUID->"a78f6e4f-dbdf-4763-a44f-16569b36e665"],
+Cell[346214, 6010, 502, 9, 121, "Text",ExpressionUUID->"0a915fcc-fb79-485d-b244-1932368da4b2"],
+Cell[346719, 6021, 99, 1, 4, "PageBreak",ExpressionUUID->"c893c828-a077-46c2-b873-307e08eb7b91",
  PageBreakBelow->True]
 }, Open  ]]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[344386, 5987, 403, 7, 251, "Title",ExpressionUUID->"a91b0c22-4606-4122-bf19-3d4bcd746f4c"],
-Cell[344792, 5996, 226, 4, 47, "Subsection",ExpressionUUID->"f46ef323-e1f9-43b8-b626-fa17b9c9a91b"],
-Cell[345021, 6002, 248, 4, 39, "Subsection",ExpressionUUID->"d6c5abda-8183-41cc-9f3d-132ba5a38cb4"],
-Cell[345272, 6008, 224, 4, 39, "Subsection",ExpressionUUID->"f9a42e24-3257-4b35-8468-5b9b14030d1c"]
+Cell[346867, 6028, 403, 7, 251, "Title",ExpressionUUID->"a91b0c22-4606-4122-bf19-3d4bcd746f4c"],
+Cell[347273, 6037, 226, 4, 47, "Subsection",ExpressionUUID->"f46ef323-e1f9-43b8-b626-fa17b9c9a91b"],
+Cell[347502, 6043, 248, 4, 39, "Subsection",ExpressionUUID->"d6c5abda-8183-41cc-9f3d-132ba5a38cb4"],
+Cell[347753, 6049, 224, 4, 39, "Subsection",ExpressionUUID->"f9a42e24-3257-4b35-8468-5b9b14030d1c"]
 }, Open  ]]
 }
 ]
